@@ -17,6 +17,7 @@ app.use(
     origin: [
       "http://localhost:5173",
       "https://chat-app-practice-frontend.vercel.app",
+      "https://chatapp-practice-frontend.vercel.app"
     ],
     credentials: true,
   }),
